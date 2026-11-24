@@ -65,12 +65,12 @@ The evidence includes sample events, not complete native logs. Where the records
 
 **25 findings. Three rated critical.** The report concludes that the selected ITGCs were not operating effectively within the tested scope.
 
-| Severity | Findings | Visual |
-| :--- | ---: | :--- |
-| **Critical** | **3** | `███` |
-| **High** | **10** | `██████████` |
-| **Medium** | **10** | `██████████` |
-| **Low** | **2** | `██` |
+| Severity | Findings |
+| :--- | ---: |
+| **Critical** | **3** |
+| **High** | **10** |
+| **Medium** | **10** |
+| **Low** | **2** |
 
 ### Three findings that stood out
 
