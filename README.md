@@ -9,10 +9,10 @@
 **One fictional company. Twenty control tests. A closer look at what the evidence actually says.**
 
 <p>
-  <img alt="ITGC" src="https://img.shields.io/badge/ITGC-Control%20Testing-2454A6?style=flat-square" />
-  <img alt="NIST CSF 2.0" src="https://img.shields.io/badge/NIST-CSF%202.0-087E8B?style=flat-square" />
-  <img alt="ISO 27001" src="https://img.shields.io/badge/ISO%2FIEC-27001%3A2022-434B58?style=flat-square" />
-  <img alt="Synthetic project" src="https://img.shields.io/badge/Data-Synthetic-6A53A3?style=flat-square" />
+  <img alt="ITGC Control Testing" src="https://img.shields.io/badge/ITGC-Control%20Testing-2454A6?style=flat-square&logo=checkmarx&logoColor=white">
+  <img alt="NIST CSF 2.0" src="https://img.shields.io/badge/NIST-CSF%202.0-087E8B?style=flat-square&logo=securityscorecard&logoColor=white">
+  <img alt="ISO/IEC 27001:2022" src="https://img.shields.io/badge/ISO%2FIEC-27001%3A2022-434B58?style=flat-square&logo=shield&logoColor=white">
+  <img alt="Synthetic Data" src="https://img.shields.io/badge/Data-Synthetic-6A53A3?style=flat-square&logo=databricks&logoColor=white">
 </p>
 
 [The case](#the-case) &nbsp;|&nbsp; [My approach](#my-approach) &nbsp;|&nbsp; [Findings](#what-the-audit-found) &nbsp;|&nbsp; [Project files](#explore-the-project)
